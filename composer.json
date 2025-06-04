@@ -8,14 +8,15 @@
         "otp-input",
         "filament-form"
     ],
-    "homepage": "https://github.com/solution-forest/filament-otp-input",
+    "homepage": "https://github.com/solutionforest/filament-otp-input",
     "support": {
-        "issues": "https://github.com/solution-forest/filament-otp-input/issues",
-        "source": "https://github.com/solution-forest/filament-otp-input"
+        "issues": "https://github.com/solutionforest/filament-otp-input/issues",
+        "source": "https://github.com/solutionforest/filament-otp-input"
     },
     "license": "MIT",
     "authors": [
         {
+            "name": "Solution Forest",
             "email": "info+package@solutionforest.net",
             "role": "Developer"
         }
