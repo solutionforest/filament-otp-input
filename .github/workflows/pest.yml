@@ -17,12 +17,9 @@ jobs:
       fail-fast: true
       matrix:
         php: [8.3, 8.2]
-        laravel: ['10.*', '11.*', '12.*']
+        laravel: ['11.*', '12.*']
         stability: [prefer-stable]
         include:
-          - laravel: 10.*
-            testbench: ^8.0
-            filament: ^3.2.6
           - laravel: 11.*
             testbench: ^9.0
             filament: ^3.2.58
