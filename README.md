@@ -1,10 +1,10 @@
 # Filament One-Time Passcode (OTP) Input Form Component
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/hasan-ahani/filament-otp-input.svg?style=flat-square)](https://packagist.org/packages/hasan-ahani/filament-otp-input)
-[![Total Downloads](https://img.shields.io/packagist/dt/hasan-ahani/filament-otp-input.svg?style=flat-square)](https://packagist.org/packages/hasan-ahani/filament-otp-input)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/hasan-ahani/filament-otp-input?style=flat-square)](https://packagist.org/packages/hasan-ahani/filament-otp-input)
-![Tests](https://github.com/hasan-ahani/filament-otp-input/workflows/Tests/badge.svg?style=flat-square)
-[![License](https://img.shields.io/github/license/hasan-ahani/filament-otp-input?style=flat-square)](https://github.com/hasan-ahani/filament-otp-input/blob/main/LICENSE.md)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/solution-forest/filament-otp-input.svg?style=flat-square)](https://packagist.org/packages/hasan-ahani/filament-otp-input)
+[![Total Downloads](https://img.shields.io/packagist/dt/solution-forest/filament-otp-input.svg?style=flat-square)](https://packagist.org/packages/hasan-ahani/filament-otp-input)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/solution-forest/filament-otp-input?style=flat-square)](https://packagist.org/packages/hasan-ahani/filament-otp-input)
+![Tests](https://github.com/hasan-ahani/solutionforest/workflows/Tests/badge.svg?style=flat-square)
+[![License](https://img.shields.io/github/license/solutionforest/filament-otp-input?style=flat-square)](https://github.com/solutionforest/filament-otp-input/blob/main/LICENSE.md)
 
 <img class="filament-hidden" src="https://raw.githubusercontent.com/hasan-ahani/filament-otp-input/master/docs/thumbnail.jpg" alt="One-Time Passcode (OTP) input for Filament" />
 
