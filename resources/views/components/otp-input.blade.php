@@ -1,7 +1,4 @@
 @php
-    $extraAlpineAttributes = $getExtraAlpineAttributes();
-    $id = $getId();
-    $isConcealed = $isConcealed();
     $isDisabled = $isDisabled();
     $isPrefixInline = $isPrefixInline();
     $isSuffixInline = $isSuffixInline();
@@ -21,15 +18,7 @@
 
 <x-dynamic-component
     :component="$getFieldWrapperView()"
-    :id="$getId()"
-    :label="$getLabel()"
-    :label-sr-only="$isLabelHidden()"
-    :helper-text="$getHelperText()"
-    :hint="$getHint()"
-    :hint-actions="$getHintActions()"
-    :hint-icon="$getHintIcon()"
-    :required="$isRequired()"
-    :state-path="$getStatePath()"
+    :field="$field"
 >
     <div x-data="{
     	    state: $wire.$entangle('{{ $getStatePath() }}'),
